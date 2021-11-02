@@ -1,0 +1,9 @@
+"""""""""""""""""""LIBRARY LOGS """""""""""""""""""""""""
+Don Quixote by Miguel de Cervantes is reserved by Hashar Mujahid at 2021-11-02 16:15:54.229677 
+Don Quixote by Miguel de Cervantes is returned by Hashar Mujahid at 2021-11-02 16:15:54.231672
+Don Quixote by Miguel de Cervantes is reserved by Abdullah Chudaray at 2021-11-02 16:15:54.232686 
+Don Quixote by Miguel de Cervantes is returned by Abdullah Chudaray at 2021-11-02 16:15:54.232686
+Don Quixote by Miguel de Cervantes is reserved by Hashar Mujahid at 2021-11-02 16:15:55.867505 
+Don Quixote by Miguel de Cervantes is returned by Hashar Mujahid at 2021-11-02 16:15:55.868501
+Don Quixote by Miguel de Cervantes is reserved by Abdullah Chudaray at 2021-11-02 16:15:55.868501 
+Don Quixote by Miguel de Cervantes is returned by Abdullah Chudaray at 2021-11-02 16:15:55.868501
